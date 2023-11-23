@@ -1,3 +1,3 @@
 # Netflix-Clone
 
-![Minha Imagem](./assets/images/netflixjpeg)
+![Minha Imagem](./assets/images/netflix.jpg)
