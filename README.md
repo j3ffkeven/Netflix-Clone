@@ -4,10 +4,3 @@
 
 [screen-capture.webm](https://github.com/jeffersonkevendev/Netflix-Clone/assets/138030659/65457b21-087c-499a-b783-1f9514fbedf6)
 
-
-
-![Minha Imagem](./assets/images/netflix.jpg)
-
-![Minha Imagem](./assets/images/netflix2.jpg)
-
-![Minha Imagem](./assets/images/netflix4.jpg)
